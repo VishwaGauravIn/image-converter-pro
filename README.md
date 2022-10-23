@@ -43,3 +43,4 @@ import imgConverter from "image-converter-pro";
 | format | "jpeg", "gif", "png", "bmp", "svg", "ico"  | "png" | string |
 | scale |    Amount of scale, for example if I want image to be 50% of it's size then I will use 0.5   |   1 | number |
 
+[</> with 💛 Vishwa Gaurav](https://itsvg.in)
