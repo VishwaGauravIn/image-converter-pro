@@ -1,0 +1,33 @@
+{
+  "name": "image-converter-pro",
+  "version": "1.0.0",
+  "description": "Convert any image into jpeg, gif, png, svg, bmp or ico directly from your web browser with advanced features such as scale up images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishwaGauravIn/image-converter-pro.git"
+  },
+  "keywords": [
+    "svg",
+    "converter",
+    "image",
+    "jpg",
+    "png",
+    "base64",
+    "icons",
+    "bmp",
+    "image-processing",
+    "gif",
+    "dataurl",
+    "datauri"
+  ],
+  "author": "VishwaGauravIn",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/VishwaGauravIn/image-converter-pro/issues"
+  },
+  "homepage": "https://github.com/VishwaGauravIn/image-converter-pro#readme"
+}
