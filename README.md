@@ -27,6 +27,7 @@ import imgConverter from "image-converter-pro";
     
     imgConverter(image, 50, 50, "png", 1).then(
           (dataUri) => {
+            let link = document.createElement("a");
             link.download = "download.png";
             link.href = dataUri;
             link.click();
